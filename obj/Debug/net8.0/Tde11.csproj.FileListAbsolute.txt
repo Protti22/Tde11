@@ -1,0 +1,14 @@
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\Tde11\bin\Debug\net8.0\Tde11.exe
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\Tde11\bin\Debug\net8.0\Tde11.deps.json
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\Tde11\bin\Debug\net8.0\Tde11.runtimeconfig.json
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\Tde11\bin\Debug\net8.0\Tde11.dll
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\Tde11\bin\Debug\net8.0\Tde11.pdb
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\Tde11\obj\Debug\net8.0\Tde11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\Tde11\obj\Debug\net8.0\Tde11.AssemblyInfoInputs.cache
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\Tde11\obj\Debug\net8.0\Tde11.AssemblyInfo.cs
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\Tde11\obj\Debug\net8.0\Tde11.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\Tde11\obj\Debug\net8.0\Tde11.dll
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\Tde11\obj\Debug\net8.0\refint\Tde11.dll
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\Tde11\obj\Debug\net8.0\Tde11.pdb
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\Tde11\obj\Debug\net8.0\Tde11.genruntimeconfig.cache
+C:\Users\Arthur\OneDrive\Documentos\segundo-semestre (faculdade)\laboratorio_de_computacao\Tde11\obj\Debug\net8.0\ref\Tde11.dll
